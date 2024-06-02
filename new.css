@@ -3,13 +3,14 @@
     padding: 0px;
     box-sizing: border-box;
 }
-header{
+
+header {
     margin: 50px 0px;
 }
 
 .container {
     width: 78%;
-    margin:0px auto;
+    margin: 0px auto;
     overflow: hidden;
 }
 
@@ -25,8 +26,8 @@ header{
     align-items: center;
     border-radius: 16px;
     overflow: hidden;
-    
-    
+
+
 
 }
 
@@ -42,7 +43,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
 
 .banner-text-sub-title {
@@ -52,14 +53,123 @@ header{
     font-weight: 400;
     line-height: 20px;
     letter-spacing: 0%;
-    
+
 }
-.banner-text-title{
+
+.banner-text-title {
     color: rgb(255, 255, 255);
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
     line-height: 70px;
     letter-spacing: 0%;
-    
+
+}
+
+.all-cata-heading {
+    width: 78%;
+    margin: 50px auto;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.holiday-deal {
+    width: 78%;
+    margin: 5px auto;
+    text-align: center;
+
+}
+
+
+.holiday-deal-img {
+    background-image: url("New\ Year\ Photo.png");
+    height: 400px;
+    width: 450px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 270px;
+
+}
+
+.holiday-deal-title {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+
+}
+
+.holiday-deal-sub-title {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+
+}
+
+.mid-night {
+    width: 78%;
+    margin: 5px auto;
+}
+
+.mid-night-bg-img {
+    background-image: url("Vectorrr.png");
+    background-size: 100%;
+    width: 100%;
+}
+
+.mid-night-bg-img-flex-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 100px;
+    background-size: 100%;
+    background-position: center;
+    margin-bottom: 20px;
+}
+
+.side-img {
+    width: 200;
+    height: 300px;
+}
+
+.mid-title {
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11%;
+    text-align: left;
+}
+
+.mid-title-p {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.button {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
 }
