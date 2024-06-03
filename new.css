@@ -300,3 +300,49 @@ header {
     letter-spacing: 0%;
 
 }
+
+.holiday-sell {
+    width: 70%;
+    margin: 40px auto;
+}
+
+.holiday-sell-container {
+    text-align: center;
+    padding: 0px 20px;
+
+}
+
+.sales-function {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    margin-top: 20px;
+}
+
+.holiday-h2-color {
+    color: red;
+}
+
+.holiday-heading {
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.holiday-p {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 20px;
+}
