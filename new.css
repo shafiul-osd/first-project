@@ -173,3 +173,54 @@ header {
     text-align: center;
     text-transform: uppercase;
 }
+
+.place {
+    width: 78%;
+    margin: 60px auto;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(230, 49, 49, 0) 100%);
+    height: 450px;
+    padding: 120px 50px;
+
+}
+
+.container-place {
+    text-align: center;
+
+}
+
+.new-button {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.red {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.par {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.red-button {
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    width: 160px;
+    height: 50px;
+    color: #fff;
+    border: none;
+    outline: none;
+}
