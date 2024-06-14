@@ -302,7 +302,7 @@ header {
 }
 
 .holiday-sell {
-    width: 70%;
+    width: 100%;
     margin: 40px auto;
 }
 
@@ -561,4 +561,37 @@ footer {
     line-height: 40px;
     letter-spacing: 0%;
     text-align: left;
+}
+.holiday-content{
+    height: 500px;
+    width: 100%;
+    position: relative;
+   
+}
+.holiday-content img{
+    position: absolute;
+}
+.img-2{
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   height: 30%;
+   
+}
+.img-1{
+    right: 0;
+    height: 80%;
+    width: 35%;
+    top: 0%;
+    
+}
+.img-3{
+    right: 21%;
+    top: 15%;
+}
+.img-4{
+    height: 75%;
+    bottom: 8%;
+    left: 5%;
+    z-index: +1;
 }
